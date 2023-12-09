@@ -42,7 +42,8 @@ const SlavaKonashkov = {
         "Single page applications"
     ],
     currentFocus: "High Load applications and systems",
-    funFact: "There are 10 types of people in this world, those who understand binary system and those who don't"
+    funFact: "There are 10 types of people in this world,\
+        those who understand binary system and those who don't"
 };
 ```
 
