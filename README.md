@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello there 👋, I'm Viacheslav Konashkov 🇺🇦!</h2>
 
 
-<p><em>Architect && Technical Lead at TripleA</em></p>
+<p><em>Architect && Technical Lead</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sundr0p?label=Follow)](https://twitter.com/intent/follow?screen_name=sundr0p)
 [![Linkedin: anmol](https://img.shields.io/badge/-slava--konashkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slava-konashkov/)](https://www.linkedin.com/in/slava-konashkov/)
