@@ -57,12 +57,12 @@ const SlavaKonashkov = {
 
 **Programming Languages:**
 
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![JS](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=coffeescript&logoColor=white&color=6aa6f8)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
 
